@@ -43,12 +43,8 @@ Here are the core engineering courses I have completed with a focus on Software 
 
 ### 📈 My GitHub Stats
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MucahitKrktk&show_icons=true&theme=radical" alt="Mucahit's Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MucahitKrktk&layout=compact&theme=radical" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=MucahitKrktk&show_icons=true&theme=radical" alt="Mucahit's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MucahitKrktk&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-[Linkedin]([https://www.linkedin.com/](https://www.linkedin.com/in/mücahit-karakütük/)) • [Email](mailto:mucahitkrktk.20@gmail.com)
+[Linkedin](https://www.linkedin.com/in/mücahit-karakütük/) • [Email](mailto:mucahitkrktk.20@gmail.com)
