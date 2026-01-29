@@ -38,7 +38,6 @@ Here are the core engineering courses I have completed with a focus on Software 
 | 🔄 Software Project Management | 🐍 Python for Data Science |
 | 🧪 Software Testing & QA | 🕸️ Information Retrieval |
 
-*(Note: Focused purely on technical curriculum, excluding general sciences)*
 
 ---
 
