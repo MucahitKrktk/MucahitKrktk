@@ -42,9 +42,9 @@ Here are the core engineering courses I have completed with a focus on Software 
 ---
 
 ### 📈 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MucahitKrktk&show_icons=true&theme=radical" alt="Mucahit's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MucahitKrktk&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
+![Mucahit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MucahitKrktk&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MucahitKrktk&layout=compact&theme=radical)
 
 [Linkedin](https://www.linkedin.com/in/mücahit-karakütük/) • [Email](mailto:mucahitkrktk.20@gmail.com)
