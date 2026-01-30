@@ -1,5 +1,11 @@
 ### Hi there, I'm Mucahit! 👋
 
+<p align="left">
+  <a href="https://github.com/MucahitKrktk/MucahitKrktk/blob/main/MucahıtKrktk.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-Black?style=for-the-badge&logo=pdf&logoColor=white" alt="Download CV" />
+  </a>
+</p>
+
 I'm a **Software Engineering Student** passionate about building end-to-end solutions, from data engineering to mobile/web applications.
 
 ---
