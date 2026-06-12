@@ -1,7 +1,7 @@
 ### Hi there, I'm Mucahit! 👋
 
 <p align="left">
-  <a href="https://github.com/MucahitKrktk/MucahitKrktk/blob/main/MucahıtKrktk.pdf" target="_blank">
+  <a href="https://github.com/MucahitKrktk/MucahitKrktk/blob/main/MucahitKrktk.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-Black?style=for-the-badge&logo=pdf&logoColor=white" alt="Download CV" />
   </a>
 </p>
